@@ -1,0 +1,1 @@
+I don't know about you, but sometimes I prefer having the HEX codes of a color in a Matplotlib colormap I'm using. This helps especially when I want to make a theme for my plots in a specific project. That's what this repository is for.
